@@ -3,3 +3,5 @@
 Repository for udemy course
 
 README.md file was just edited manually. One more edit at GetHub. This file was modified locally.
+
+Edit in feature-2 branch
